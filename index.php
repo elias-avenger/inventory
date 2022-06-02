@@ -5,7 +5,6 @@
     header("location: user_reg.php");
   }
  ?>
-
  <!DOCTYPE html>
  <html lang="en" dir="ltr">
    <head>
